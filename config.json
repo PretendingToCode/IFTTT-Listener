@@ -1,0 +1,8 @@
+{
+  "dropboxPath": "Enter path with '/' here",
+  "updateTime": 0,
+  "paths": {
+    "spotify.exe": "Enter path with '/' here",
+    "minecraft.exe": "Enter path with '/' here"
+  }
+}
